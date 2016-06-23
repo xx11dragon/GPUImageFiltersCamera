@@ -12,5 +12,6 @@
 1.实时滤镜 <br>
 2.相机基本功能：拍照，对焦，前后摄像头转换，闪光灯。<br>
 
-![Alt exmple](http://osscdn.code4app.com/photo/564d829a594b90de038b463a_1.gif)
+![Alt exmple](http://osscdn.code4app.com/photo/564d829a594b90de038b463a_1.gif)<br>
+#### PS:
 由于一些原因，demo版本暂不更新，请谅解。
